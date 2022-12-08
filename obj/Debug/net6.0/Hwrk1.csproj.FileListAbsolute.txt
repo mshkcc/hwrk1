@@ -1,0 +1,15 @@
+F:\Прочее\GB\QA\C#\Hwrk1\bin\Debug\net6.0\Hwrk1.exe
+F:\Прочее\GB\QA\C#\Hwrk1\bin\Debug\net6.0\Hwrk1.deps.json
+F:\Прочее\GB\QA\C#\Hwrk1\bin\Debug\net6.0\Hwrk1.runtimeconfig.json
+F:\Прочее\GB\QA\C#\Hwrk1\bin\Debug\net6.0\Hwrk1.dll
+F:\Прочее\GB\QA\C#\Hwrk1\bin\Debug\net6.0\Hwrk1.pdb
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.csproj.AssemblyReference.cache
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.AssemblyInfoInputs.cache
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.AssemblyInfo.cs
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.csproj.CoreCompileInputs.cache
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.dll
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\refint\Hwrk1.dll
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.pdb
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\Hwrk1.genruntimeconfig.cache
+F:\Прочее\GB\QA\C#\Hwrk1\obj\Debug\net6.0\ref\Hwrk1.dll
