@@ -1,25 +1,21 @@
 ﻿int a;
 int b;
-int min;
+int c;
 int max;
+max=0;
 
 Console.Write($"Введите первое число ");
 int.TryParse(Console.ReadLine()!, out a);
 Console.Write($"Введите второе число ");
 int.TryParse(Console.ReadLine()!, out b);
+Console.Write($"Введите третье число ");
+int.TryParse(Console.ReadLine()!, out c);
 
-if (a>b)
-{
+if (a>max)
     max=a;
-    min=b;
-    Console.Write($"Максимальное число {a} ");
-    Console.Write($"Минимальное число {b} ");
-}
-
-else {
+if (b>max)
     max=b;
-    min=a;
-     Console.Write($"Максимальное число {b} ");
-     Console.Write($"Минимальное число {a} ");
-}
+if (c>max)
+    max=c;
 
+     Console.Write($"Максимальное число {max} ");
